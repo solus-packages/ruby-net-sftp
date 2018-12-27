@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-net-sftp</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,77 +19,77 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/CHANGES.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/LICENSE.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/Manifest</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/README.rdoc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/gem-public_cert.pem</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/constants.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/errors.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/dir.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/download.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/file.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/file_factory.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/upload.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/packet.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/01/attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/01/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/01/name.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/02/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/03/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/04/attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/04/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/04/name.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/05/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/06/attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/06/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/request.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/response.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/session.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib/net/sftp/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/net-sftp.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/setup.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/common.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/01/test_attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/01/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/01/test_name.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/02/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/03/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/04/test_attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/04/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/04/test_name.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/05/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/06/test_attributes.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/06/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/protocol/test_base.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_all.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_dir.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_download.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_file.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_file_factory.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_packet.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_protocol.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_request.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_response.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_session.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/net-sftp-2.1.2/test/test_upload.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/net-sftp-2.1.2.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/CHANGES.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/LICENSE.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/Manifest</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/README.rdoc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/gem-public_cert.pem</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/constants.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/errors.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/dir.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/download.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/file.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/file_factory.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/operations/upload.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/packet.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/01/attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/01/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/01/name.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/02/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/03/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/04/attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/04/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/04/name.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/05/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/06/attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/06/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/protocol/base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/request.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/response.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/session.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/lib/net/sftp/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/net-sftp.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/setup.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/common.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/01/test_attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/01/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/01/test_name.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/02/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/03/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/04/test_attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/04/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/04/test_name.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/05/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/06/test_attributes.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/06/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/protocol/test_base.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_all.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_dir.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_download.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_file.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_file_factory.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_packet.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_protocol.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_request.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_response.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_session.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/net-sftp-2.1.2/test/test_upload.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/net-sftp-2.1.2.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>2.1.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
