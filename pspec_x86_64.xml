@@ -10,7 +10,7 @@
         <Summary xml:lang="en">RubyGem - net-sftp</Summary>
         <Description xml:lang="en">A pure Ruby implementation of the SFTP client protocol.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>ruby-net-sftp</Name>
@@ -84,8 +84,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2018-12-26</Date>
+        <Update release="3">
+            <Date>2019-10-07</Date>
             <Version>2.1.2</Version>
             <Comment>Packaging update</Comment>
             <Name>F. von Gellhorn</Name>
